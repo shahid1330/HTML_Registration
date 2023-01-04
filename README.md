@@ -1,2 +1,2 @@
 # HTML_Registration
-Registration page using HTML only.
+Registration form page using HTML only.
